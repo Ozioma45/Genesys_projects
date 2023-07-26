@@ -66,3 +66,25 @@
 .dash-img{
     box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.411);
 }
+
+/*Trusted*/
+.trust-title h2{
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.trust-title p{
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.box {
+    background-color: #f0f0f0;
+    margin: auto;
+    width: 250px;
+    height: 117px;
+  }
+
+  .comp{
+    width: 70%;
+ }
