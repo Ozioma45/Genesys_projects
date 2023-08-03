@@ -114,3 +114,28 @@
  .why-sub-para{
     font-size: 15px;
  }
+
+ /*Accurate*/
+
+ .accurate-right{
+    background-image: url(../img/image.png);
+ }
+
+ .accurate-title{
+    font-weight: 800;
+    font-size: 40px;
+ }
+
+ .accurate-para{
+    font-weight: 700;
+    line-height: 1.2;
+ }
+
+ .accurate-sub h3{
+    font-size: 20px;
+    font-weight: 600;
+ }
+
+ .accurate-sub p{
+    text-align: justify;
+ }
